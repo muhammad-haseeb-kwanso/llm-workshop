@@ -117,7 +117,4 @@ To get started with LangChain, follow these steps:
 6. **Test and Deploy**: Thoroughly test your application and deploy it to your desired platform.
 
 
-# Let's proceed with practical examples. Let's rephrase that.
-
-
-
+# Let's proceed with practical examples...
